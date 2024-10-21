@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "task-management-app"
+version = "0.1.0"
+description = ""
+authors = ["Shashank Pandey <shashank.pandey@attentive.ai>"]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+django = "^4.2"  # Compatible with Python 3.9
+djangorestframework = "^3.14"  # Compatible with Django 4.x
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
