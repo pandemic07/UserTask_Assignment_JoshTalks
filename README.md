@@ -24,8 +24,8 @@ This is a task management application built using Django and Django Rest Framewo
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/pandemic07/UserTask_Assignment_JoshTalks.git
+   cd task_management_app
 
 2. **Create a Virtual Environment using Poetry**
     ```bash
