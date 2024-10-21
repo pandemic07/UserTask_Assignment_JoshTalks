@@ -112,8 +112,3 @@ This is a task management application built using Django and Django Rest Framewo
         - `mobile`: **String** - The mobile number of the user.
 
 ---
-
-## Conclusion
-This task management app provides a simple yet effective way to manage tasks and their assignments. You can extend its functionality by adding features like due dates, priority levels, and notifications.
-
-Feel free to explore the code and customize it further!
